@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; XDigiCorps</title>
+	<atom:link href="https://genesismadrid.github.io/xdigicorps/blog/featured_item_category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesismadrid.github.io/xdigicorps</link>
+	<description>A Freelance Web Designer and Web Developer</description>
+	<lastBuildDate>Wed, 24 Mar 2021 14:01:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Another Print Package</title>
+		<link>https://genesismadrid.github.io/xdigicorps/blog/featured_item/another-print-package/</link>
+					<comments>https://genesismadrid.github.io/xdigicorps/blog/featured_item/another-print-package/#respond</comments>
+		
+		<dc:creator><![CDATA[creatives]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:38:06 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8919</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ]]></description>
+										<content:encoded><![CDATA[<p class="last-updated">Last updated on March 24th, 2021 at 01:58 pm</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://genesismadrid.github.io/xdigicorps/blog/featured_item/another-print-package/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Awesome Pencil Poster</title>
+		<link>https://genesismadrid.github.io/xdigicorps/blog/featured_item/awesome-pencil-poster/</link>
+					<comments>https://genesismadrid.github.io/xdigicorps/blog/featured_item/awesome-pencil-poster/#respond</comments>
+		
+		<dc:creator><![CDATA[creatives]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:35:26 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8915</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat]]></description>
+										<content:encoded><![CDATA[<p class="last-updated">Last updated on March 24th, 2021 at 01:59 pm</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://genesismadrid.github.io/xdigicorps/blog/featured_item/awesome-pencil-poster/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flatsome Poster Print</title>
+		<link>https://genesismadrid.github.io/xdigicorps/blog/featured_item/flatsome-poster-print/</link>
+					<comments>https://genesismadrid.github.io/xdigicorps/blog/featured_item/flatsome-poster-print/#respond</comments>
+		
+		<dc:creator><![CDATA[creatives]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2016 09:25:23 +0000</pubDate>
+				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8909</guid>
+
+					<description><![CDATA[Last updated on March 24th, 2021 at 02:01 pmLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
+										<content:encoded><![CDATA[<p class="last-updated">Last updated on March 24th, 2021 at 02:01 pm</p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesismadrid.github.io/xdigicorps/blog/featured_item/flatsome-poster-print/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
